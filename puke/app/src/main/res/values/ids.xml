@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageview1" type="id" />
+    <item name="imageview2" type="id" />
+    <item name="imageview3" type="id" />
+    <item name="imageview4" type="id" />
+    <item name="imageview5" type="id" />
+    <item name="imageview6" type="id" />
+    <item name="imageview7" type="id" />
+    <item name="imageview8" type="id" />
+    <item name="imageview9" type="id" />
+    <item name="imageview10" type="id" />
+    <item name="imageview11" type="id" />
+    <item name="imageview12" type="id" />
+    <item name="imageview13" type="id" />
+</resources>
